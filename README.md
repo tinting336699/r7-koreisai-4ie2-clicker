@@ -1,2 +1,2 @@
-# r7-koreisai-4ie2-clicker
-令和7年の工嶺祭の4ie2のクリッカーゲームです。
+# r7-school-festival-clicker
+令和7年の文化祭で作ったクリッカーゲームです。
