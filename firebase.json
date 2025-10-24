@@ -1,0 +1,1 @@
+{"hosting":{"site":"clicker-unt1","public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"],"frameworksBackend":{"region":"asia-east1"}},"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"r7-koreisai-4ie2","configurations":{"web":"1:875220755449:web:4603efad1490238dd6d328"}}}}}}

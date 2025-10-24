@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "r7-koreisai-4ie2"
+  },
+  "targets": {
+    "r7-koreisai-4ie2": {
+      "hosting": [
+        {
+          "clicker-unt1": [
+            "clicker-unt1"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875220755449",
+    "project_id": "r7-koreisai-4ie2",
+    "storage_bucket": "r7-koreisai-4ie2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875220755449:android:653125cac8df9dc2d6d328",
+        "android_client_info": {
+          "package_name": "com.example.production"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkZqO_1nSv6Vxi8N1aWZqnRhPuk8p7QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
